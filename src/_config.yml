@@ -3,8 +3,8 @@ email: admin@europa-cro-node.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the Europa CRO node website
   An european validator node on the Crypto.com blockchain
-baseurl: "/europa-cro-node-website" # the subpath of your site, e.g. /blog
-url: "https://darkcenobyte.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://europa-cro-node.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DarkCenobyte
 github_username:  darkcenobyte
 show_downloads: false
