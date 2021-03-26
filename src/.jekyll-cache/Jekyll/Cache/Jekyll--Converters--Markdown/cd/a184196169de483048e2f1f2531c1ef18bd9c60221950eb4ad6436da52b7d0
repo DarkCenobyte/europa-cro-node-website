@@ -1,0 +1,47 @@
+I"E<h1 id="welcome-to--europa">Welcome to 🇪🇺 EUROPA</h1>
+
+<p>This website is related to the <strong>Europa CRO validator node</strong>
+You can find more information about the validator on this page, and useful links.</p>
+
+<h2 id="what-is-a-cro-validator">What is a CRO validator?</h2>
+<p>Recently, <a href="https://crypto.com">Crypto.com</a> start its own blockchain, a mainnet using the CRO token natively (it was originally an ERC-20 token from the Ethereum blockchain).
+The blockchain is more detailed on the <a href="https://crypto.org/">Crypto.org website</a>, this blockchain rely on a <strong>DPoS</strong> (<strong>Delegated Proof-of-Stake</strong>) algorithm.</p>
+
+<p>This way, anybody can participate easily:</p>
+<ul>
+  <li>You don’t need to be rich to participate and be rewarded. The minimal stake requirements is <strong>1 CRO</strong>!</li>
+  <li>This is a <strong>flexible</strong> stake, there is no fixed terms, you can stake/unstake or more exactly delegate/un-delegate/re-delegate as you want (by performing a transaction on the CRO mainnet)</li>
+  <li>You can start your own node (like I did) and setup your commission rules. And so, people can delegate to your validator.</li>
+  <li>You can also delegate to another validator, check their commission rates, …</li>
+</ul>
+
+<h2 id="which-validator-should-i-choose">Which validator should I choose?</h2>
+<p>You can choose a validator on 3 criteria:</p>
+<ol>
+  <li>The commissions rates applied by this validator (you can find it using the CRO Validator list link below).</li>
+  <li>The trust you give the validator (if the validator goes offline, you will cease to receive rewards).</li>
+  <li>Do you want to delegate to the richest validators (that will probably not goes offline soon…), or do you prefer to delegate to a smaller one and contribute to the decentralization of this blockchain.</li>
+</ol>
+
+<h2 id="how-can-i-delegate-some-cro-to-this-validator">How can I delegate some CRO to this validator?</h2>
+<p>For now you can use the Desktop Wallet from Crypto.com (still beta), but follow information as the staking will be available on the DeFi Wallet app on Android/iOS soon.
+<strong>Using the Staking features</strong>, use the following Validator Address: <strong>crocncl1f5tczesgrq4p0que3qadekk56z3k5nj4ktcupv</strong></p>
+<blockquote>
+  <p>⚠️ <strong>WARNING:</strong>
+You <strong>MUST</strong> use the Staking feature <strong>ONLY</strong>. Do <strong>NOT</strong> try to send CRO directly on the validator address!</p>
+</blockquote>
+
+<h2 id="where-the-europa-validator-is-hosted">Where the EUROPA validator is hosted?</h2>
+<p>To be 100% transparent, I currently use a <a href="https://contabo.com/en/">Contabo</a> VPS “VPS XL SSD” located in Germany.
+<strong>Contabo is a german hosting vps/server provider</strong>, which offers VPS at an exceptional price considering the SSD space, CPU and RAM they offer.
+The servers do not offer the fastest SSDs, but are sufficient today for a CRO validator.</p>
+
+<h2 id="useful-links">Useful links</h2>
+<ul>
+  <li><a href="https://crypto.org/explorer/validator/crocncl1f5tczesgrq4p0que3qadekk56z3k5nj4ktcupv">EUROPA Validator Page</a></li>
+  <li><a href="https://crypto.org/">Crypto.org Website</a></li>
+  <li><a href="https://crypto.com/">Crypto.com Website</a></li>
+  <li><a href="https://crypto.org/explorer/validators">CRO Validator list</a></li>
+</ul>
+
+:ET
