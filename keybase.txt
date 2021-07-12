@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/europacronode
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://europa-cro-node.xyz
+  * I am europacronode (https://keybase.io/europacronode) on keybase.
+  * I have a public key with fingerprint 6ADB 9DD1 C7F8 CE19 FDB1  463E 9886 B8D7 9BDA 53F3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101cd8fa357013c05618157c6bae0c94f3748272bf50c99122e34cc334ac8d27fb30a",
+      "fingerprint": "6adb9dd1c7f8ce19fdb1463e9886b8d79bda53f3",
+      "host": "keybase.io",
+      "key_id": "9886b8d79bda53f3",
+      "kid": "0101cd8fa357013c05618157c6bae0c94f3748272bf50c99122e34cc334ac8d27fb30a",
+      "uid": "a25025a7fd5524d8e955cfae552b8b19",
+      "username": "europacronode"
+    },
+    "service": {
+      "hostname": "europa-cro-node.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1626128582,
+  "expire_in": 157680000,
+  "prev": "2c2a5967d3f85e5b75bc8e936e67e28a02c8b6f758572c5dd9c4c4368f35e4a6",
+  "seqno": 2,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIvAnicrZJbSBVBGMePXQylG0rYxaiWIqKj7c7u7M4ezYrCwCIqiAKNdXZm9ria
+Z0971pNmSopdICKTMowuD/ZSdHkJEbO8FBoFkQ+VdDMDiyCiqPSh5DQr9RD02LwM
+38zv+3/f/+O7N2NyIDWpeXH2p8Tzs5eTHva0VgSKP3b3VQumQ6uEULVQxiYutoey
+mGeU2VQICaIkSoQiC8tQEyWZiFCVkAQ1opqYiURXLFlTENCAaUEe6hIATFYIkWUF
+E0SBZpmyiIWgYNmRMHOjrh3xuKyKqalTKhHNQoRJukVNSVFlpiOkmohqukkxlC2Z
+J5Y4MT+DN2fiGMu2Hf7GA2OivX/w/7nvigk5DKAIINYsCiFQKGI6hMTCjEcmMiXd
+B2PMjeByxmlW4TpRTFwn4lAm1AQF/hW3CfOn69v5C8viXJYPZldW7ec6UdfxHOLs
+4UCJ50VjIV/Aq4r6GfuYafzWMkw7QvlMeUacuTHbiQghiZPEs31xSQWqBBBEICiw
+yqjtMsP2CaipSOTHr8PiXBIQgKGualS2EGTQ1KBJuD1ZZarGAMIiIMhULQ0iqAEC
+KdWJQhRZRZYMmYJVwXe3N+IIIV7Jw2EuGbPDEexVuNx6b3fRlEBSaiB56iR/1wKp
+KbP/bODSJ9MShWvHTuewhYm67pGy1UkPAjcz1HDCsB8NfMlpTn93sWDB+/M/zh3P
+7CmZZ3SeVi5tbHv7fuqSHU3sZ2thW3j9SLClcdZQkfGxoPrxmpP12Yt2Wq2bNsyf
+O97mBfNqD37oax1K+34hffPBml0nS98Md654Jg7W1Mf7P+ejvBMgcbZ4em7GtdHv
+zR3XZ6K7K3OKtlydnUO0G7vheXnsdn776pQTr1YuLzxlt3SVFNTEby3TSG+PPmR0
+Hxg43LCt5cehjDsdWe3v+scnrbOO7/g2Z9VLIX371jONuV+OhZ829Je/vp/2YvTz
+YGnKpyO9R+v2kdjA15TGWvQtefhKMDMro6OLNP0CxkJLXg==
+=+5cY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/europacronode
+
+==================================================================
