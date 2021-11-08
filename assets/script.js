@@ -1,4 +1,8 @@
 async function addCronosNetwork() {
+  if (window.ethereum === undefined || ! window.ethereum.isMetaMask) {
+    console.info("MetaMask isn't installed!");
+    return;
+  }
   try {
     await ethereum.request({
       method: 'wallet_switchEthereumChain',
@@ -17,8 +21,8 @@ async function addCronosNetwork() {
                 name: 'CRO',
                 symbol: 'CRO',
                 decimals: 18
-              }
-              rpcUrl: ['https://evm-cronos.crypto.org'],
+              },
+              rpcUrls: ['https://evm-cronos.crypto.org'],
               blockExplorerUrls: ['https://cronos.crypto.org/explorer/']
             }
           ]
